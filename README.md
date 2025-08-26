@@ -21,3 +21,9 @@ Using this program is very straightforward. Do the following steps:
 2. Download the program
 3. Open this program with your code editor and write your 32 bit key in the variable RAW_KEY
 4. Save the changes and run the program
+
+# LICENSE
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+You may use, share, and modify this code non-commercially, as long as you give appropriate credit.  
+See [license details](https://creativecommons.org/licenses/by-nc/4.0/) for more information.
